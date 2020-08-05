@@ -1,0 +1,16 @@
+{
+  "name": "kiki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "greatBay.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  }
+}
